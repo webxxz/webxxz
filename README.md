@@ -11,7 +11,7 @@
 ### **Cybersecurity | Red Team | Automation Engineer | AI Tooling Developer**  
 **`webxxz` · he/him**
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=webxxz&label=Visitors&color=12&icon=0&pretty=true)
+![Visitor Count](https://profile-counter.glitch.me/webxxz/count.svg)
 
 Hi! I’m **Sunil**, a cybersecurity researcher and automation-focused developer specializing in advanced offensive security tooling, AI-driven recon engines, and real-time red team automation systems.
 
@@ -19,83 +19,75 @@ I build systems that make penetration testers, bug bounty hunters, and security 
 
 ---
 
-# 🌐 **Social & Contact**
+## 🌐 Social & Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sunilparmar027">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-  </a>
-  <a href="mailto:webbughunting@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-  </a>
-  <a href="https://github.com/webxxz">
-    <img src="https://skillicons.dev/icons?i=github" height="48"/>
-  </a>
+<div style="display: flex; gap: 15px; align-items: center;">
+
+<a href="https://www.linkedin.com/in/sunilparmar027">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+</a>
+
+<a href="mailto:webbughunting@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+</a>
+
+<a href="https://github.com/webxxz">
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
+</a>
+
+</div> 
+
+---
+
+## 🧰 Tech Stack
+
+### 🛡️ Security Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=burpsuite" height="50" />
+  <img src="https://skillicons.dev/icons?i=nmap" height="50" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000?style=for-the-badge&logo=ZAP&logoColor=white" height="35" />
+  <img src="https://skillicons.dev/icons?i=wireshark" height="50" />
+  <img src="https://img.shields.io/badge/sqlmap-black?style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Metasploit-2596be?style=for-the-badge&logo=metasploit&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Nessus-004f9e?style=for-the-badge&logo=tenable&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Nikto-red?style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Recon--ng-purple?style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Acunetix-EF3A37?style=for-the-badge&logo=acunetix&logoColor=white" height="35" />
 </p>
 
 ---
 
-# 🧰 **Tech Stack**
-
-### **Languages**
+### 🧑‍💻 Programming & Scripting
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,bash" height="45">
-</p>
-
-### **Security Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" height="45">
-  <img src="https://img.shields.io/badge/Nmap-2A5A84?logo=nmap&style=flat-square">
-  <img src="https://img.shields.io/badge/Burp_Suite-F26822?logo=burpsuite&style=flat-square">
-  <img src="https://img.shields.io/badge/sqlmap-red?style=flat-square">
-  <img src="https://img.shields.io/badge/nuclei-blue?style=flat-square">
-</p>
-
-### **Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker" height="45">
-</p>
-
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mongodb" height="45">
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
 </p>
 
 ---
 
-# 🛡️ **Cybersecurity Skillset**
+### 💻 Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=kali" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="50" />
+  <img src="https://skillicons.dev/icons?i=windows" height="50" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0047AB?style=for-the-badge&logo=microsoft&logoColor=white" height="35" />
+</p>
 
-### 🔍 **VAPT Tools**
-- Burp Suite, OWASP ZAP, Nmap, Wireshark  
-- SQLmap, Metasploit, Nessus  
-- Nikto, Recon-ng, Acunetix  
+---
 
-### 🕸️ **Security Domains**
-- Web & Network Pentesting  
-- OWASP Top 10  
-- SSRF, LFI/RFI  
-- SMB Enumeration  
-- Firewall Analysis  
-
-### 🧑‍💻 **Programming & Scripting**
-- Python • Bash • JavaScript  
-- SQL • HTML/CSS  
-
-### 💻 **Operating Systems**
-- Kali Linux • Ubuntu • Windows  
-- Active Directory Security  
-
-### 📚 **Frameworks / Standards**
-- OWASP  
-- MITRE ATT&CK  
-- NIST SP 800-53  
-- Microsoft Azure  
-- GitHub  
-
-### 🧠 **Soft Skills**
-- Leadership • Collaboration  
-- Time Management • Adaptability  
-- Quick Learning  
+### 📚 Frameworks / Standards
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+  <img src="https://img.shields.io/badge/OWASP-black?style=for-the-badge&logo=owasp&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-orange?style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/NIST%20800--53-blue?style=for-the-badge" height="35" />
+</p>
 
 ---
 
@@ -140,18 +132,20 @@ I build systems that make penetration testers, bug bounty hunters, and security 
 
 ---
 
-# 📈 **GitHub Stats (Auto Dark/Light Mode)**
+## 📈 GitHub Stats (Auto Dark/Light Mode)
 
 <div align="center">
 
+<!-- Stats -->
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=webxxz&show_icons=true&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=webxxz&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" />
   <img src="https://github-readme-stats.vercel.app/api?username=webxxz&show_icons=true" />
 </picture>
 
-<br>
+<br><br>
 
+<!-- Streak -->
 <picture>
   <source srcset="https://github-readme-streak-stats.herokuapp.com?user=webxxz&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-streak-stats.herokuapp.com?user=webxxz&hide_border=true" media="(prefers-color-scheme: light)" />
