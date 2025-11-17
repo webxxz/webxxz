@@ -31,18 +31,24 @@ I build systems that make penetration testers, bug bounty hunters, and security 
 
 ## 🧰 Tech Stack
 
-### 🛡️ Security Tools
+## 🛡️ Security Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=burpsuite" height="50" />
-  <img src="https://skillicons.dev/icons?i=nmap" height="50" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000?style=for-the-badge&logo=ZAP&logoColor=white" height="35" />
-  <img src="https://skillicons.dev/icons?i=wireshark" height="50" />
-  <img src="https://img.shields.io/badge/sqlmap-black?style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/Metasploit-2596be?style=for-the-badge&logo=metasploit&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Nessus-004f9e?style=for-the-badge&logo=tenable&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Nikto-red?style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/Recon--ng-purple?style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/Acunetix-EF3A37?style=for-the-badge&logo=acunetix&logoColor=white" height="35" />
+
+<!-- Tools with real icons -->
+<img src="https://skillicons.dev/icons?i=burpsuite" height="45" />
+<img src="https://skillicons.dev/icons?i=nmap" height="45" />
+<img src="https://skillicons.dev/icons?i=wireshark" height="45" />
+
+<!-- Tools without skillicons (use badges) -->
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000?style=flat-square&logo=ZAP&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/SQLmap-black?style=flat-square" height="25" />
+<img src="https://img.shields.io/badge/Metasploit-2596be?style=flat-square&logo=metasploit&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Nessus-004f9e?style=flat-square&logo=tenable&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Nikto-red?style=flat-square" height="25" />
+<img src="https://img.shields.io/badge/Recon--ng-purple?style=flat-square" height="25" />
+<img src="https://img.shields.io/badge/Acunetix-EF3A37?style=flat-square&logo=acunetix&logoColor=white" height="25" />
+
 </p>
 
 ---
