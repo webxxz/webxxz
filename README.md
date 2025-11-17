@@ -31,7 +31,8 @@ I build systems that make penetration testers, bug bounty hunters, and security 
 
 ## 🧰 Tech Stack
 
-## 🛡️ Security Tools
+
+### 🛡️ Security Tools
 
 <p>
 
