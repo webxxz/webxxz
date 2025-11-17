@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=28&duration=3000&pause=700&color=00F7A4&center=true&vCenter=true&width=900&lines=Cybersecurity+Researcher;Red+Team+Automation+Engineer;AI+Tooling+Developer;Offensive+Security+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=28&duration=3000&pause=700&color=00F7A4&center=true&vCenter=true&width=900&lines=Cybersecurity+Researcher;Red+Team+Automation+Engineer;AI+Tooling+Developer;Offensive+Security+Developer;Bug+Bounty+Hunter;)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,8 +11,6 @@
 ### **Cybersecurity | Red Team | Automation Engineer | AI Tooling Developer**  
 **`webxxz` · he/him**
 
-![Visitor Count](https://profile-counter.glitch.me/webxxz/count.svg)
-
 Hi! I’m **Sunil**, a cybersecurity researcher and automation-focused developer specializing in advanced offensive security tooling, AI-driven recon engines, and real-time red team automation systems.
 
 I build systems that make penetration testers, bug bounty hunters, and security teams work **faster, smarter, and more efficiently**.
@@ -21,21 +19,13 @@ I build systems that make penetration testers, bug bounty hunters, and security 
 
 ## 🌐 Social & Contact
 
-<div style="display: flex; gap: 15px; align-items: center;">
-
-<a href="https://www.linkedin.com/in/sunilparmar027">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
-</a>
-
-<a href="mailto:webbughunting@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
-</a>
-
-<a href="https://github.com/webxxz">
-  <img src="https://skillicons.dev/icons?i=github" height="48" />
-</a>
-
-</div> 
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/sunilparmar027"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a></td>
+    <td><a href="mailto:webbughunting@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a></td>
+    <td><a href="https://github.com/webxxz"><img src="https://skillicons.dev/icons?i=github" height="48"/></a></td>
+  </tr>
+</table>
 
 ---
 
